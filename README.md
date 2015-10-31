@@ -45,6 +45,6 @@ parameters are email addresses
 
 ## Contributing
 
-Feel free to share your support if you feel like contributing
+Feel free to share your support if you feel like contributing this.
 
  
